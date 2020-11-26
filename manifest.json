@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "name": "medium-pls",
+  "version": "0.0.2",
+  "permissions": ["cookies", "*://*.medium.com/*", "webRequest"],
+  "background": { "scripts": ["background.js"]}
+}
